@@ -2,8 +2,8 @@
 /////////////////////////////////////////
 //   Sumas y restas de polinomios      //
 //   Fecha: 19/03/2019                 //
-// UPEMOR - Universidad Politecnica    //
-//	 Version: 1.0                      //
+// Autor: Arturo Bautista de Jesus     //
+//	 Version: 1.0                  //
 ////////////////////////////////////////
 
 #include<stdio.h>
